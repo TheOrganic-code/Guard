@@ -1094,7 +1094,7 @@ def handle_language_change(lang):
 # ----------------------------------------------------
 # 6. Gradio Interface Construction
 # ----------------------------------------------------
-with gr.Blocks(css=CSS_STYLE, theme=gr.themes.Soft(primary_hue="orange", neutral_hue="zinc")) as demo:
+with gr.Blocks(css=CSS_STYLE, theme=gr.themes.Origin(primary_hue="orange", neutral_hue="zinc")) as demo:
     
     # Row for Language Toggle & Theme Toggle at top right
     with gr.Row():
