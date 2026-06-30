@@ -1,7 +1,7 @@
 ---
 title: RecoverGuard
 emoji: 🛡️
-colorFrom: orange
+colorFrom: gray
 colorTo: gray
 sdk: gradio
 sdk_version: 4.19.2
