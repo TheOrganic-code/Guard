@@ -1,0 +1,9 @@
+gradio>=4.0.0
+pandas
+numpy<2
+scikit-learn
+matplotlib
+seaborn
+shap
+jinja2
+catboost
